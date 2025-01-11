@@ -32,7 +32,7 @@
             <tr>
                 <th>No</th>
                 <th>ID Transaksi</th>
-                <th>Nama Produk</th>
+                <th>Nama Barang</th>
                 <th>Jumlah</th>
                 <th>Harga</th>
                 <th>Subtotal</th>

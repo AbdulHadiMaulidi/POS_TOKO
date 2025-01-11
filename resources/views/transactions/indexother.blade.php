@@ -29,7 +29,7 @@
                             <tr>
                                 <th class="text-center">No</th>
                                 <th class="text-start">Nama Kasir</th>
-                                <th class="text-start">Nama Produk</th>
+                                <th class="text-start">Nama Barang</th>
                                 <th class="text-center">Jumlah</th>
                                 <th class="text-start">Harga</th>
                                 <th class="text-start">SubTotal</th>

@@ -26,7 +26,7 @@
                             <tr>
                                 <th class="text-center" scope="col">No</th>
                                 <th class="text-start" scope="col">Nama Pegawai</th>
-                                <th class="text-start" scope="col">Produk</th>
+                                <th class="text-start" scope="col">Barang</th>
                                 <th class="text-center" scope="col">Tipe</th>
                                 <th class="text-center" scope="col">Jumlah</th>
                                 <th class="text-center" scope="col">Tanggal</th>

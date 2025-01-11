@@ -30,7 +30,7 @@
                         <x-slot name="header">
                             <tr>
                                 <th class="text-center" scope="col">#</th>
-                                <th class="text-start" scope="col">Nama Produk</th>
+                                <th class="text-start" scope="col">Nama Barang</th>
                                 <td class="text-start" scope="col">SKU</th>
                                 <th class="text-center" scope="col">Harga</th>
                                 <th class="text-center" scope="col">Stok</th>

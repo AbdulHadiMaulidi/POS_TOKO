@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Produk</title>
+    <title>Barang</title>
     <style>
         table {
             width: 80%;
@@ -31,7 +31,7 @@
         <thead>
             <tr>
                 <th class="text-center" scope="col">No</th>
-                <th class="text-start" scope="col">Nama Produk</th>
+                <th class="text-start" scope="col">Nama Barang</th>
                 <th class="text-start" scope="col">SKU</th>
                 <th class="text-center" scope="col">Harga</th>
                 <th class="text-center" scope="col">Stok</th>

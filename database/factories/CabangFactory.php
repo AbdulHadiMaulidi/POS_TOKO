@@ -19,7 +19,7 @@ class CabangFactory extends Factory
         static $usedCabangs = []; 
 
         $cabangs = [
-            'Jakarta', 'Bali', 'Cianjur', 'Bogor', 'Bandung'
+            'Tangerang', 'Sukabumi', 'Jakarta', 'Bekasi', 'Depok'
         ];
 
         $availableCabangs = array_diff($cabangs, $usedCabangs);

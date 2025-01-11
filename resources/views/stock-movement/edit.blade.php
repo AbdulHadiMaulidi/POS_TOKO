@@ -26,7 +26,7 @@
 
                         <!-- Produk -->
                         <div>
-                            <label for="product_id" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Produk</label>
+                            <label for="product_id" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Barang</label>
                             <select 
                                 id="product_id" 
                                 name="product_id" 

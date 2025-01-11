@@ -26,7 +26,7 @@
 
                         <!-- Nama Produk -->
                         <div>
-                            <label for="name" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Nama Produk</label>
+                            <label for="name" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Nama Barang</label>
                             <input 
                                 type="text" 
                                 id="name" 
